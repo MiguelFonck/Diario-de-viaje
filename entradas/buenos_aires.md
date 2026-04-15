@@ -6,3 +6,6 @@ Buenos Aires, capital de Argentina y conocida como la "París de Sudamérica", e
  ## Recomendación
 Buenos Aires es una ciudad vibrante con una mezcla única de cultura europea y pasión latina. Imperdibles incluyen visitar el Teatro Colón, caminar por Caminito en La Boca, explorar San Telmo, disfrutar de la gastronomía en Puerto Madero y recorrer la librería El Ateneo Grand Splendid. La mejor época es primavera u otoño.
 
+## Foto
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7SG2ginFxOocQ3PORzig99-YOzE-De4y8iQ&s)
+
