@@ -9,3 +9,5 @@ París es una ciudad fascinante con atracciones icónicas como la Torre Eiffel, 
 ## Foto
 ![](https://www.viajarafrancia.com/wp-content/uploads/2016/04/Paris-760x500.jpg)
 
+## Informacion sobre parís
+París, capital de Francia y conocida como la "Ciudad de la Luz", es un influyente centro global de arte, moda y cultura. Situada a orillas del río Sena, alberga iconos como la Torre Eiffel, el Museo del Louvre y Notre Dame. La ciudad cuenta con más de 2 millones de habitantes y es un destino turístico principal. 
