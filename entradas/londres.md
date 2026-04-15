@@ -6,3 +6,6 @@ Londres es la capital del Reino Unido e Inglaterra, una metrópolis vibrante y m
  ## Recomendación
 ondres es un destino vibrante con iconos históricos, museos gratuitos y una cultura diversa. Imprescindibles son el Big Ben, el London Eye, la Torre de Londres y pasear por el Támesis. Aprovecha los museos gratuitos como el Británico, visita mercados como Camden y planifica con antelación el permiso ETA si viajas en 2026.
 ​
+## Foto
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-EnUNqKfXcc1frQSP8EKuC6PjyOjYNT16OA&s)
+
