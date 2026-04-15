@@ -6,3 +6,6 @@ París, capital de Francia y apodada la "Ciudad de la Luz", es un centro mundial
  ## Recomendación
 París es una ciudad fascinante con atracciones icónicas como la Torre Eiffel, el Louvre, Montmartre y la Catedral de Notre Dame. Se recomienda reservar entradas con antelación para evitar largas filas, pasear por el Sena en barco, explorar el barrio de Le Marais y disfrutar de la gastronomía en cafés locales.
 ​
+## Foto
+![](https://www.viajarafrancia.com/wp-content/uploads/2016/04/Paris-760x500.jpg)
+
