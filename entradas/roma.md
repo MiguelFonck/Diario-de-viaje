@@ -6,3 +6,6 @@ Roma, conocida como la "Ciudad Eterna" y capital de Italia, es una metrópoli hi
  ## Recomendación
 Roma es una ciudad eterna con una riqueza histórica inigualable. Imprescindibles: Coliseo, Foro Romano, Fontana di Trevi, Panteón y el Vaticano. Se recomienda reservar entradas con antelación para evitar largas filas. Pasea por el Trastevere, disfruta de la gastronomía local y explora a pie para descubrir la historia en cada esquina.
 
+## Foto
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBQeJ-8qonK8YXJYh8X--ysFNHHOqLbhDhRw&s)
+
