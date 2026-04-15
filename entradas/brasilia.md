@@ -9,3 +9,5 @@ Visita Brasilia entre junio y agosto para disfrutar de un clima seco y agradable
 ## Foto
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQIRgAS0JqSTjhzt2xnH9zpnZLd644vGOMNw&s)
 
+## Informacion sobre parís
+Brasilia, inaugurada en 1960, es la capital federal de Brasil, concebida como una ciudad planificada en el centro del país para fomentar el desarrollo interior. Diseñada por Lucio Costa y Oscar Niemeyer, destaca por su arquitectura modernista y su diseño en forma de avión, declarada Patrimonio de la Humanidad por la UNESCO. 
