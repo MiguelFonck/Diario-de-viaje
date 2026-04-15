@@ -9,3 +9,5 @@ Buenos Aires es una ciudad vibrante con una mezcla única de cultura europea y p
 ## Foto
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7SG2ginFxOocQ3PORzig99-YOzE-De4y8iQ&s)
 
+## Informacion sobre parís
+Buenos Aires, capital de Argentina, es una metrópoli vibrante y cosmopolita conocida por su arquitectura europea, la pasión por el tango y el fútbol, y una rica oferta cultural y gastronómica
