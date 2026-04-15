@@ -9,3 +9,5 @@ Roma es una ciudad eterna con una riqueza histórica inigualable. Imprescindible
 ## Foto
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBQeJ-8qonK8YXJYh8X--ysFNHHOqLbhDhRw&s)
 
+## Informacion 
+Roma, la "Ciudad Eterna" y capital de Italia, es un inmenso museo al aire libre con más de 2.700 años de historia, famosa por su arte, arquitectura barroca y gastronomía. Con más de 2,8 millones de habitantes, es el corazón de la cultura europea, destacando por el Coliseo, el Vaticano y la Fontana di Trevi
