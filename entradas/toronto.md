@@ -9,3 +9,5 @@ Para tu viaje a Toronto, no te pierdas la icónica CN Tower para obtener vistas 
 ## Foto
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKTN7C1X4mJiLsOiFtHlAYOID_gXvO0JIIUg&s)
 
+## Informacion sobre parís
+Toronto es la ciudad más poblada de Canadá, capital de la provincia de Ontario y un importante centro financiero y comercial. Situada a orillas del lago Ontario, es conocida como una de las metrópolis más multiculturales del mundo, con una gran diversidad gastronómica, cultural y atracciones icónicas como la CN Tower
